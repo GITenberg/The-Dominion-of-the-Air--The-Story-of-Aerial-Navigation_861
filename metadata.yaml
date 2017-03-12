@@ -1,5 +1,8 @@
 _repo: The-Dominion-of-the-Air--The-Story-of-Aerial-Navigation_861
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Bacon, John M. (John Mackenzie)
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '449'
     url: http://www.gutenberg.org/2009/agents/449
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/861#The-Dominion-of-the-Air--The-Story-of-Aerial-Navigation
 gutenberg_issued: '1997-03-01'
 gutenberg_type: Text
 identifiers:
